@@ -1,0 +1,13 @@
+{
+    "name": "jhapa/todoapp",
+    "description": "Application de gestion de t\u0000ches et de notes",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "nmd974",
+            "email": "jha.payet@gmail.com"
+        }
+    ]
+}
